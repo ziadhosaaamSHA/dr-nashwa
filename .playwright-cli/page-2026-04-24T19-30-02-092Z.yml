@@ -1,0 +1,107 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "د. نشوى طلعت" [ref=e5] [cursor=pointer]:
+          - /url: /ar
+        - generic [ref=e6]:
+          - link "الخدمات" [ref=e7] [cursor=pointer]:
+            - /url: /ar/#services
+          - link "عن د. نشوى" [ref=e8] [cursor=pointer]:
+            - /url: /ar/about
+          - link "البرامج" [ref=e9] [cursor=pointer]:
+            - /url: /ar/programs
+          - link "آراء المرضى" [ref=e10] [cursor=pointer]:
+            - /url: /ar/testimonials
+          - link "تواصل معنا" [ref=e11] [cursor=pointer]:
+            - /url: /ar/contact
+        - link "احجز استشارتك" [ref=e13] [cursor=pointer]:
+          - /url: /ar/contact#book
+    - generic [ref=e14]:
+      - link "العربية" [ref=e15] [cursor=pointer]:
+        - /url: /ar
+      - generic [ref=e16]: "|"
+      - link "English" [ref=e17] [cursor=pointer]:
+        - /url: /en
+    - generic [ref=e19]:
+      - heading "آراء مرضانا" [level=1] [ref=e20]
+      - paragraph [ref=e21]: لمحة عن تجارب من اختاروا د. نشوى
+      - generic [ref=e22]:
+        - generic [ref=e23]: "46"
+        - generic [ref=e24]: رأيي
+    - generic [ref=e27]:
+      - img "Review 1" [ref=e30] [cursor=pointer]
+      - img "Review 2" [ref=e33] [cursor=pointer]
+      - img "Review 3" [ref=e36] [cursor=pointer]
+      - img "Review 4" [ref=e39] [cursor=pointer]
+      - img "Review 5" [ref=e42] [cursor=pointer]
+      - img "Review 6" [ref=e45] [cursor=pointer]
+      - img "Review 7" [ref=e48] [cursor=pointer]
+      - img "Review 8" [ref=e51] [cursor=pointer]
+      - img "Review 9" [ref=e54] [cursor=pointer]
+      - img "Review 10" [ref=e57] [cursor=pointer]
+      - img "Review 11" [ref=e60] [cursor=pointer]
+      - img "Review 12" [ref=e63] [cursor=pointer]
+      - img "Review 13" [ref=e66] [cursor=pointer]
+      - img "Review 14" [ref=e69] [cursor=pointer]
+      - img "Review 15" [ref=e72] [cursor=pointer]
+      - img "Review 16" [ref=e75] [cursor=pointer]
+      - img "Review 17" [ref=e78] [cursor=pointer]
+      - img "Review 18" [ref=e81] [cursor=pointer]
+      - img "Review 19" [ref=e84] [cursor=pointer]
+      - img "Review 20" [ref=e87] [cursor=pointer]
+      - img "Review 21" [ref=e90] [cursor=pointer]
+      - img "Review 22" [ref=e93] [cursor=pointer]
+      - img "Review 23" [ref=e96] [cursor=pointer]
+      - img "Review 24" [ref=e99] [cursor=pointer]
+      - img "Review 25" [ref=e102] [cursor=pointer]
+      - img "Review 26" [ref=e105] [cursor=pointer]
+      - img "Review 27" [ref=e108] [cursor=pointer]
+      - img "Review 28" [ref=e111] [cursor=pointer]
+      - img "Review 29" [ref=e114] [cursor=pointer]
+      - img "Review 30" [ref=e117] [cursor=pointer]
+      - img "Review 31" [ref=e120] [cursor=pointer]
+      - img "Review 32" [ref=e123] [cursor=pointer]
+      - img "Review 33" [ref=e126] [cursor=pointer]
+      - img "Review 34" [ref=e129] [cursor=pointer]
+      - img "Review 35" [ref=e132] [cursor=pointer]
+      - img "Review 36" [ref=e135] [cursor=pointer]
+      - img "Review 37" [ref=e138] [cursor=pointer]
+      - img "Review 38" [ref=e141] [cursor=pointer]
+      - img "Review 39" [ref=e144] [cursor=pointer]
+      - img "Review 40" [ref=e147] [cursor=pointer]
+      - img "Review 41" [ref=e150] [cursor=pointer]
+      - img "Review 42" [ref=e153] [cursor=pointer]
+      - img "Review 43" [ref=e156] [cursor=pointer]
+      - img "Review 44" [ref=e159] [cursor=pointer]
+      - img "Review 45" [ref=e162] [cursor=pointer]
+      - img "Review 46" [ref=e165] [cursor=pointer]
+    - generic [ref=e167]:
+      - heading "جاهز لتحويل صحتك؟" [level=2] [ref=e168]
+      - paragraph [ref=e169]: احجز استشارتك اليوم وخذ الخطوة الأولى نحو حياة أكثر صحة وسعادة. أماكن محدودة كل أسبوع.
+      - link "احجز استشارتك الآن" [ref=e170] [cursor=pointer]:
+        - /url: /ar/#book
+    - generic [ref=e172]:
+      - generic [ref=e173]:
+        - generic [ref=e174]:
+          - generic [ref=e175]: د. نشوى
+          - paragraph [ref=e176]: أخصائية التغذية الموثوقة
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - heading "روابط سريعة" [level=4] [ref=e179]
+            - link "الخدمات" [ref=e180] [cursor=pointer]:
+              - /url: /ar/#services
+            - link "عن د. نشوى" [ref=e181] [cursor=pointer]:
+              - /url: /ar/#about
+            - link "آراء المرضى" [ref=e182] [cursor=pointer]:
+              - /url: /ar/testimonials
+          - generic [ref=e183]:
+            - heading "تواصل معنا" [level=4] [ref=e184]
+            - link "+20 123 456 7890" [ref=e185] [cursor=pointer]:
+              - /url: tel:+201234567890
+            - link "info@nashwa-clinic.com" [ref=e186] [cursor=pointer]:
+              - /url: mailto:info@nashwa-clinic.com
+            - link "Cairo, Egypt" [ref=e187] [cursor=pointer]:
+              - /url: "#"
+      - paragraph [ref=e189]: © 2026 Dr. Nashwa Clinic. جميع الحقوق محفوظة
+  - alert [ref=e190]

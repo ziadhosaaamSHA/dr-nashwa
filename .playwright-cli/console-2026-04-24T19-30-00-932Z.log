@@ -1,0 +1,13 @@
+[     844ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.00.06%20PM.png:0
+[     846ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.00.16%20PM.png:0
+[     846ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.00.33%20PM.png:0
+[     848ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.04.24%20PM.png:0
+[     849ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.04.37%20PM.png:0
+[     888ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.06.16%20PM.png:0
+[     888ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.06.32%20PM.png:0
+[     888ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.06.49%20PM.png:0
+[     891ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.07.05%20PM.png:0
+[     892ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.07.13%20PM.png:0
+[     905ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.07.38%20PM.png:0
+[     906ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/reviews/Screenshot%202026-04-22%20at%2010.07.46%20PM.png:0
+[    1062ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559

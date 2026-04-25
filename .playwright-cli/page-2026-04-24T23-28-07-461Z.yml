@@ -1,0 +1,374 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "د. نشوى" [ref=e5] [cursor=pointer]:
+          - /url: /ar
+        - generic [ref=e6]:
+          - link "الخدمات" [ref=e7] [cursor=pointer]:
+            - /url: /ar#services
+          - link "عن د. نشوى" [ref=e8] [cursor=pointer]:
+            - /url: /ar/about
+          - link "البرامج" [ref=e9] [cursor=pointer]:
+            - /url: /ar/programs
+          - link "آراء المرضى" [ref=e10] [cursor=pointer]:
+            - /url: /ar/testimonials
+          - link "تواصل معنا" [ref=e11] [cursor=pointer]:
+            - /url: /ar/contact
+        - link "احجز استشارتك" [ref=e13] [cursor=pointer]:
+          - /url: /ar/contact#book
+    - generic [ref=e14]:
+      - link "العربية" [ref=e15] [cursor=pointer]:
+        - /url: /ar
+      - generic [ref=e16]: "|"
+      - link "English" [ref=e17] [cursor=pointer]:
+        - /url: /en
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: أخصائية التغذية العلاجية
+        - heading "رحلتك نحو حياة صحية تبدأ هنا" [level=1] [ref=e22]:
+          - text: رحلتك نحو
+          - text: حياة صحية
+          - text: تبدأ هنا
+        - paragraph [ref=e23]: خطط غذائية مخصصة مبنية على العلم. حوّل صحتك مع إرشاد خبير مصمم لنمط حياتك وتفضيلاتك الثقافية وأهدافك الصحية.
+        - generic [ref=e24]:
+          - link "احجز استشارتك" [ref=e25] [cursor=pointer]:
+            - /url: /ar/contact#book
+          - link "استكشف خدماتنا" [ref=e26] [cursor=pointer]:
+            - /url: /ar/programs
+      - img "Dr. Nashwa" [ref=e30]
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - heading "كيف يمكنني مساعدتك" [level=2] [ref=e35]
+        - paragraph [ref=e36]: خدمات تغذية شاملة مصممة لتحويل صحتك
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - img [ref=e41]
+            - heading "إدارة الوزن" [level=3] [ref=e45]
+            - paragraph [ref=e46]: برامج إنقاص أو زيادة الوزن المستدامة
+          - generic [ref=e47]:
+            - img [ref=e49]
+            - heading "إدارة الأمراض" [level=3] [ref=e51]
+            - paragraph [ref=e52]: خطط غذائية للسكري وارتفاع ضغط الدم
+          - generic [ref=e53]:
+            - img [ref=e55]
+            - heading "تغذية الحوامل" [level=3] [ref=e57]
+            - paragraph [ref=e58]: رعاية تغذية متخصصة للأمهات
+          - generic [ref=e59]:
+            - img [ref=e61]
+            - heading "تغذية الأسرة" [level=3] [ref=e66]
+            - paragraph [ref=e67]: إرشادات تغذية للعائلة بأكملها
+          - generic [ref=e68]:
+            - img [ref=e70]
+            - heading "تخطيط الوجبات" [level=3] [ref=e72]
+            - paragraph [ref=e73]: خطط وجبات مخصصة مع وصفات
+          - generic [ref=e74]:
+            - img [ref=e76]
+            - heading "تحليل الصحة" [level=3] [ref=e77]
+            - paragraph [ref=e78]: تحليل معمق لتكوين الجسم
+        - generic [ref=e79]:
+          - button "Previous" [ref=e80] [cursor=pointer]: ‹
+          - button "Next" [ref=e81] [cursor=pointer]: ›
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - heading "نتائج ملموسة" [level=2] [ref=e85]
+        - paragraph [ref=e86]: تحولات حقيقية من عملائنا
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - img "Review 1" [ref=e91]
+          - img "Review 2" [ref=e94]
+          - img "Review 3" [ref=e97]
+          - img "Review 4" [ref=e100]
+          - img "Review 5" [ref=e103]
+          - img "Review 6" [ref=e106]
+          - img "Review 7" [ref=e109]
+          - img "Review 8" [ref=e112]
+          - img "Review 9" [ref=e115]
+          - img "Review 10" [ref=e118]
+          - img "Review 11" [ref=e121]
+          - img "Review 12" [ref=e124]
+          - img "Review 13" [ref=e127]
+          - img "Review 14" [ref=e130]
+          - img "Review 15" [ref=e133]
+          - img "Review 16" [ref=e136]
+          - img "Review 17" [ref=e139]
+          - img "Review 18" [ref=e142]
+          - img "Review 19" [ref=e145]
+          - img "Review 20" [ref=e148]
+          - img "Review 21" [ref=e151]
+          - img "Review 22" [ref=e154]
+          - img "Review 23" [ref=e157]
+          - img "Review 24" [ref=e160]
+          - img "Review 25" [ref=e163]
+          - img "Review 26" [ref=e166]
+          - img "Review 27" [ref=e169]
+          - img "Review 28" [ref=e172]
+          - img "Review 29" [ref=e175]
+          - img "Review 30" [ref=e178]
+          - img "Review 31" [ref=e181]
+          - img "Review 32" [ref=e184]
+          - img "Review 33" [ref=e187]
+          - img "Review 34" [ref=e190]
+          - img "Review 35" [ref=e193]
+          - img "Review 36" [ref=e196]
+          - img "Review 37" [ref=e199]
+          - img "Review 38" [ref=e202]
+          - img "Review 39" [ref=e205]
+          - img "Review 40" [ref=e208]
+          - img "Review 41" [ref=e211]
+          - img "Review 42" [ref=e214]
+          - img "Review 43" [ref=e217]
+          - img "Review 44" [ref=e220]
+          - img "Review 45" [ref=e223]
+          - img "Review 46" [ref=e226]
+        - generic [ref=e227]:
+          - button "Previous" [ref=e228] [cursor=pointer]: ‹
+          - button "Next" [ref=e229] [cursor=pointer]: ›
+      - link "عرض جميع الآراء" [ref=e231] [cursor=pointer]:
+        - /url: /ar/testimonials
+    - generic [ref=e233]:
+      - generic [ref=e234]:
+        - heading "آراء مرضانا" [level=2] [ref=e235]
+        - paragraph [ref=e236]: قصص حقيقية من مرضى حقيقيين غيّرنا حياتهم
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - generic [ref=e240]: "\""
+            - generic [ref=e241]: ★★★★★
+            - paragraph [ref=e242]: د. نشوى ساعدتني على فقدان 15 كجم في 6 أشهر دون التخلي عن أطباقي المصرية المفضلة.
+            - generic [ref=e244]: سارة أحمد
+          - generic [ref=e245]:
+            - generic [ref=e246]: "\""
+            - generic [ref=e247]: ★★★★★
+            - paragraph [ref=e248]: خلال حملي، أنشأت د. نشوى خطة وجبات Keeping me healthy and energized.
+            - generic [ref=e250]: مريم حسن
+          - generic [ref=e251]:
+            - generic [ref=e252]: "\""
+            - generic [ref=e253]: ★★★★★
+            - paragraph [ref=e254]: بعد تشخيصي بالسكري، صممت د. نشوى خطة ساعدتني على إدارة نسبة السكر.
+            - generic [ref=e256]: عمر فاروق
+          - generic [ref=e257]:
+            - generic [ref=e258]: "\""
+            - generic [ref=e259]: ★★★★★
+            - paragraph [ref=e260]: برنامنج الأسرة ساعدني أرتب تغذية لأولادي بطريقة صحية وممتعة.
+            - generic [ref=e262]: ليلى عبدالله
+          - generic [ref=e263]:
+            - generic [ref=e264]: "\""
+            - generic [ref=e265]: ★★★★★
+            - paragraph [ref=e266]: ك رياضي، خطتي الغذائية الجديدة حسنت أداءي بشكل ملحوظ.
+            - generic [ref=e268]: أحمد محمود
+        - generic [ref=e269]:
+          - button "Previous" [ref=e270] [cursor=pointer]: ‹
+          - button "Next" [ref=e271] [cursor=pointer]: ›
+      - link "عرض جميع الآراء" [ref=e273] [cursor=pointer]:
+        - /url: /ar/testimonials
+    - generic [ref=e275]:
+      - generic [ref=e276]:
+        - heading "برامجنا" [level=2] [ref=e277]
+        - paragraph [ref=e278]: برامج متخصصة تناسب احتياجاتك
+      - generic [ref=e279]:
+        - generic [ref=e280]:
+          - article [ref=e281]:
+            - generic [ref=e282]:
+              - generic [ref=e283]: الأكثر طلباً
+              - img [ref=e285]
+            - generic [ref=e293]:
+              - generic [ref=e294]: "01"
+              - generic [ref=e295]:
+                - img [ref=e296]
+                - generic [ref=e299]: 3-6 أشهر
+            - paragraph [ref=e300]: خطة متوازنة لخسارة أو زيادة الوزن بدون حرمان.
+            - heading "برنامج إدارة الوزن" [level=3] [ref=e301]
+            - paragraph [ref=e302]: برامج إنقاص الوزن المستدامة مع خطط غذائية مخصصة تناسب نمط حياتك المصري.
+            - generic [ref=e303]:
+              - generic [ref=e304]: وجبات يومية واضحة
+              - generic [ref=e305]: متابعة أسبوعية
+              - generic [ref=e306]: وصفات مصرية
+            - list [ref=e308]:
+              - listitem [ref=e309]:
+                - generic [ref=e310]: ✓
+                - text: تحليل شامل للجسم
+              - listitem [ref=e311]:
+                - generic [ref=e312]: ✓
+                - text: خطط غذائية مخصصة
+              - listitem [ref=e313]:
+                - generic [ref=e314]: ✓
+                - text: متابعة أسبوعية
+            - link "احجز الآن" [ref=e315] [cursor=pointer]:
+              - /url: /ar/contact#book
+          - article [ref=e316]:
+            - generic [ref=e317]:
+              - generic [ref=e318]: رعاية علاجية
+              - img [ref=e320]
+            - generic [ref=e326]:
+              - generic [ref=e327]: "02"
+              - generic [ref=e328]:
+                - img [ref=e329]
+                - generic [ref=e332]: 6+ أشهر
+            - paragraph [ref=e333]: مراقبة غذائية تساعدك على استقرار سكر الدم بثقة.
+            - heading "برنامج إدارة السكري" [level=3] [ref=e334]
+            - paragraph [ref=e335]: خطط غذائية متخصصة للتحكم في سكر الدم مع متابعة طبية مستمرة.
+            - generic [ref=e336]:
+              - generic [ref=e337]: تتبع سكر الدم
+              - generic [ref=e338]: تنسيق مع الطبيب
+              - generic [ref=e339]: وجبات متوازنة
+            - list [ref=e341]:
+              - listitem [ref=e342]:
+                - generic [ref=e343]: ✓
+                - text: تتبع سكر الدم
+              - listitem [ref=e344]:
+                - generic [ref=e345]: ✓
+                - text: خطط وجبات مخصصة
+              - listitem [ref=e346]:
+                - generic [ref=e347]: ✓
+                - text: إرشاد غذائي مستمر
+            - link "احجز الآن" [ref=e348] [cursor=pointer]:
+              - /url: /ar/contact#book
+          - article [ref=e349]:
+            - generic [ref=e350]:
+              - generic [ref=e351]: رعاية الحمل
+              - img [ref=e353]
+            - generic [ref=e359]:
+              - generic [ref=e360]: "03"
+              - generic [ref=e361]:
+                - img [ref=e362]
+                - generic [ref=e365]: 9+ أشهر
+            - paragraph [ref=e366]: دعم غذائي آمن ومريح للأم والطفل في كل مرحلة.
+            - heading "برنامج تغذية الحوامل" [level=3] [ref=e367]
+            - paragraph [ref=e368]: رعاية تغذية شاملة للأمهات المنتظرات لضمان صحة مثالية للأم والطفل.
+            - generic [ref=e369]:
+              - generic [ref=e370]: خطط آمنة للحمل
+              - generic [ref=e371]: متابعة شهرية
+              - generic [ref=e372]: إرشاد للمكملات
+            - list [ref=e374]:
+              - listitem [ref=e375]:
+                - generic [ref=e376]: ✓
+                - text: خطط غذائية آمنة للحمل
+              - listitem [ref=e377]:
+                - generic [ref=e378]: ✓
+                - text: متابعة شهرية
+              - listitem [ref=e379]:
+                - generic [ref=e380]: ✓
+                - text: مكملات غذائية
+            - link "احجز الآن" [ref=e381] [cursor=pointer]:
+              - /url: /ar/contact#book
+          - article [ref=e382]:
+            - generic [ref=e383]:
+              - generic [ref=e384]: دعم الأسرة
+              - img [ref=e386]
+            - generic [ref=e395]:
+              - generic [ref=e396]: "04"
+              - generic [ref=e397]:
+                - img [ref=e398]
+                - generic [ref=e401]: سنوي
+            - paragraph [ref=e402]: نظام عملي يسهّل تنظيم وجبات الأسرة كلها.
+            - heading "برنامج تغذية الأسرة" [level=3] [ref=e403]
+            - paragraph [ref=e404]: إرشادات تغذية كاملة للعائلة بأكملها من الأطفال إلى كبار السن.
+            - generic [ref=e405]:
+              - generic [ref=e406]: وجبات للعائلة
+              - generic [ref=e407]: تغذية الأطفال
+              - generic [ref=e408]: تثقيف غذائي
+            - list [ref=e410]:
+              - listitem [ref=e411]:
+                - generic [ref=e412]: ✓
+                - text: خطط وجبات للعائلة
+              - listitem [ref=e413]:
+                - generic [ref=e414]: ✓
+                - text: تغذية الأطفال
+              - listitem [ref=e415]:
+                - generic [ref=e416]: ✓
+                - text: احتياجات كبار السن
+            - link "احجز الآن" [ref=e417] [cursor=pointer]:
+              - /url: /ar/contact#book
+          - article [ref=e418]:
+            - generic [ref=e419]:
+              - generic [ref=e420]: أداء نشط
+              - img [ref=e422]
+            - generic [ref=e429]:
+              - generic [ref=e430]: "05"
+              - generic [ref=e431]:
+                - img [ref=e432]
+                - generic [ref=e435]: 3-12 أشهر
+            - paragraph [ref=e436]: وقود غذائي محسوب لتحسين الأداء والتعافي.
+            - heading "برنامج التغذية الرياضية" [level=3] [ref=e437]
+            - paragraph [ref=e438]: خطط غذائية محسنة للأداء الرياضي والتعافي العضلي.
+            - generic [ref=e439]:
+              - generic [ref=e440]: أداء أفضل
+              - generic [ref=e441]: تعافٍ أسرع
+              - generic [ref=e442]: مكملات آمنة
+            - list [ref=e444]:
+              - listitem [ref=e445]:
+                - generic [ref=e446]: ✓
+                - text: خطط غذائية رياضية
+              - listitem [ref=e447]:
+                - generic [ref=e448]: ✓
+                - text: جداول تدريب
+              - listitem [ref=e449]:
+                - generic [ref=e450]: ✓
+                - text: إدارة التعافي
+            - link "احجز الآن" [ref=e451] [cursor=pointer]:
+              - /url: /ar/contact#book
+          - article [ref=e452]:
+            - generic [ref=e453]:
+              - generic [ref=e454]: إعادة توازن
+              - img [ref=e456]
+            - generic [ref=e462]:
+              - generic [ref=e463]: "06"
+              - generic [ref=e464]:
+                - img [ref=e465]
+                - generic [ref=e468]: 2-4 أسابيع
+            - paragraph [ref=e469]: خطة قصيرة لإعادة التنظيم الغذائي بطريقة آمنة.
+            - heading "برنامج Detox & Cleanse" [level=3] [ref=e470]
+            - paragraph [ref=e471]: برنامج قصير المدى يساعدك على إعادة التوازن الغذائي بعادات أوضح ودعم منتظم.
+            - generic [ref=e472]:
+              - generic [ref=e473]: مدة قصيرة
+              - generic [ref=e474]: دعم أسبوعي
+              - generic [ref=e475]: وصفات سهلة
+            - list [ref=e477]:
+              - listitem [ref=e478]:
+                - generic [ref=e479]: ✓
+                - text: خطة قصيرة وواضحة
+              - listitem [ref=e480]:
+                - generic [ref=e481]: ✓
+                - text: وصفات سهلة التطبيق
+              - listitem [ref=e482]:
+                - generic [ref=e483]: ✓
+                - text: دعم أسبوعي
+            - link "احجز الآن" [ref=e484] [cursor=pointer]:
+              - /url: /ar/contact#book
+        - generic [ref=e485]:
+          - button "Previous" [ref=e486] [cursor=pointer]: ‹
+          - button "Next" [ref=e487] [cursor=pointer]: ›
+    - generic [ref=e489]:
+      - heading "جاهز لتحويل صحتك؟" [level=2] [ref=e490]
+      - paragraph [ref=e491]: احجز استشارتك اليوم وخذ الخطوة الأولى نحو حياة أكثر صحة وسعادة. أماكن محدودة كل أسبوع.
+      - link "احجز استشارتك الآن" [ref=e492] [cursor=pointer]:
+        - /url: /ar/contact#book
+    - generic [ref=e494]:
+      - generic [ref=e495]:
+        - generic [ref=e496]:
+          - generic [ref=e497]: د. نشوى
+          - paragraph [ref=e498]: أخصائية التغذية الموثوقة
+        - generic [ref=e499]:
+          - generic [ref=e500]:
+            - heading "روابط سريعة" [level=4] [ref=e501]
+            - link "الخدمات" [ref=e502] [cursor=pointer]:
+              - /url: /ar/#services
+            - link "عن د. نشوى" [ref=e503] [cursor=pointer]:
+              - /url: /ar/about
+            - link "البرامج" [ref=e504] [cursor=pointer]:
+              - /url: /ar/programs
+            - link "آراء المرضى" [ref=e505] [cursor=pointer]:
+              - /url: /ar/testimonials
+          - generic [ref=e506]:
+            - heading "تواصل معنا" [level=4] [ref=e507]
+            - link "+20 123 456 7890" [ref=e508] [cursor=pointer]:
+              - /url: tel:+201234567890
+            - link "info@nashwa-clinic.com" [ref=e509] [cursor=pointer]:
+              - /url: mailto:info@nashwa-clinic.com
+            - link "Cairo, Egypt" [ref=e510] [cursor=pointer]:
+              - /url: "#"
+      - paragraph [ref=e512]: © 2026 Dr. Nashwa Clinic. جميع الحقوق محفوظة
+  - button "Open Next.js Dev Tools" [ref=e518] [cursor=pointer]:
+    - img [ref=e519]

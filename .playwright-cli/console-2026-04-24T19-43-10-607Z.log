@@ -1,0 +1,50 @@
+[    1778ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[   84944ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[   84965ms] [ERROR] ./node_modules/next/dist/build/webpack/loaders/next-app-loader/index.js?name=app%2F%5Blocale%5D%2Fpage&page=%2F%5Blocale%5D%2Fpage&appPaths=%2F%5Blocale%5D%2Fpage&pagePath=private-next-app-dir%2F%5Blocale%5D%2Fpage.tsx&appDir=%2FUsers%2Fziadhosaaam%2FDocuments%2Fnashwa-clinic%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fziadhosaaam%2FDocuments%2Fnashwa-clinic&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!
+TypeError: (0 , _utils.isAppBuiltinPage) is not a function @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  108733ms] [ERROR] ./node_modules/next/dist/lib/require-instrumentation-client.js:11:1
+Module not found: Can't resolve 'private-next-instrumentation-client'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/app-next-dev.js @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  108733ms] [ERROR] ./node_modules/next/dist/client/dev/hot-reloader/app/web-socket.js:166:3
+Module not found: Can't resolve '@vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts'
+  164 |   }
+  165 |
+> 166 |   import(
+      |   ^
+  167 |     // @ts-expect-error requires "moduleResolution": "node16" in tsconfig.json and not .ts extension
+  168 |     '@vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts'
+  169 |   ).then(({ connect }) => {
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/app-index.js
+./node_modules/next/dist/client/app-next-dev.js @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  108823ms] [ERROR] ./node_modules/next/dist/lib/require-instrumentation-client.js:11:1
+Module not found: Can't resolve 'private-next-instrumentation-client'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/app-next-dev.js @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  108823ms] [ERROR] ./node_modules/next/dist/client/dev/hot-reloader/app/web-socket.js:166:3
+Module not found: Can't resolve '@vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts'
+  164 |   }
+  165 |
+> 166 |   import(
+      |   ^
+  167 |     // @ts-expect-error requires "moduleResolution": "node16" in tsconfig.json and not .ts extension
+  168 |     '@vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts'
+  169 |   ).then(({ connect }) => {
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/next/dist/client/app-index.js
+./node_modules/next/dist/client/app-next-dev.js @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  108836ms] [ERROR] ./node_modules/next/dist/build/webpack/loaders/next-app-loader/index.js?name=app%2F%5Blocale%5D%2Fpage&page=%2F%5Blocale%5D%2Fpage&appPaths=%2F%5Blocale%5D%2Fpage&pagePath=private-next-app-dir%2F%5Blocale%5D%2Fpage.tsx&appDir=%2FUsers%2Fziadhosaaam%2FDocuments%2Fnashwa-clinic%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fziadhosaaam%2FDocuments%2Fnashwa-clinic&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!
+TypeError: (0 , _utils.isAppBuiltinPage) is not a function @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32

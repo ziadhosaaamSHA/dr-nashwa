@@ -1,0 +1,8 @@
+[     839ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[     889ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/public/nashwa.png:0
+[     889ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/reviews/Screenshot%202026-04-22%20at%2010.00.06%20PM.png:0
+[     889ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/reviews/Screenshot%202026-04-22%20at%2010.00.16%20PM.png:0
+[     889ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/reviews/Screenshot%202026-04-22%20at%2010.00.33%20PM.png:0
+[     893ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/reviews/Screenshot%202026-04-22%20at%2010.04.24%20PM.png:0
+[     894ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/reviews/Screenshot%202026-04-22%20at%2010.04.37%20PM.png:0
+[     938ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/reviews/Screenshot%202026-04-22%20at%2010.06.16%20PM.png:0

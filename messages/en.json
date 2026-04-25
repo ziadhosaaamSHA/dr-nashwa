@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About Dr. Nashwa",
+    "programs": "Programs",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "book": "Book Consultation"
+  },
+  "hero": {
+    "badge": "Clinical Nutrition Specialist",
+    "title1": "Your Journey to a",
+    "title2": "Healthier Life",
+    "title3": "Starts Here",
+    "description": "Personalized nutrition plans backed by science. Transform your health with expert guidance tailored to your lifestyle, cultural preferences, and health goals.",
+    "cta": "Book Your Consultation",
+    "explore": "Explore Services"
+  },
+  "stats": {
+    "clients": "Happy Clients",
+    "experience": "Years Experience",
+    "programs": "Specialized Programs",
+    "satisfaction": "Satisfaction Rate"
+  },
+  "services": {
+    "title": "How I Can Help You",
+    "subtitle": "Comprehensive nutrition services designed to transform your health",
+    "items": [
+      {
+        "title": "Weight Management",
+        "description": "Sustainable weight loss or gain programs tailored to your body type, lifestyle, and cultural dietary preferences."
+      },
+      {
+        "title": "Disease Management",
+        "description": "Nutrition plans for diabetes, hypertension, heart conditions, and other health conditions with medical oversight."
+      },
+      {
+        "title": "Prenatal & Postnatal",
+        "description": "Specialized nutrition care for expecting and new mothers ensuring optimal health for both mother and baby."
+      },
+      {
+        "title": "Family Nutrition",
+        "description": "Complete nutrition guidance for the whole family, from children's healthy development to elderly dietary needs."
+      },
+      {
+        "title": "Meal Planning",
+        "description": "Custom meal plans with delicious Egyptian and Mediterranean recipes that fit your caloric and nutritional goals."
+      },
+      {
+        "title": "Health Analysis",
+        "description": "In-depth body composition analysis, metabolic testing, and regular progress tracking with detailed reports."
+      }
+    ]
+  },
+  "about": {
+    "badge": "About Dr. Nashwa",
+    "title1": "Dedicated to Your",
+    "title2": "Health & Wellbeing",
+    "text1": "With over 8 years of experience in clinical nutrition, I specialize in creating personalized nutrition plans that work with your lifestyle, not against it. My approach combines evidence-based nutrition science with a deep understanding of Egyptian and Middle Eastern dietary traditions.",
+    "text2": "I believe that healthy eating shouldn't mean giving up the foods you love. Instead, it's about finding the right balance and making informed choices that support your health goals while honoring your cultural heritage.",
+    "credential1": "Licensed Clinical Nutritionist",
+    "credential2": "MSc in Clinical Nutrition",
+    "credential3": "Member of Egyptian Nutrition Society"
+  },
+  "testimonials": {
+    "title": "What Clients Say",
+    "subtitle": "Real stories from real clients who transformed their lives",
+    "viewAll": "View All Reviews",
+    "page": {
+      "title": "Client Testimonials",
+      "subtitle": "A glimpse into the experiences of those who chose Dr. Nashwa"
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Health?",
+    "text": "Book your consultation today and take the first step towards a healthier, happier you. Limited slots available each week.",
+    "button": "Book Your Consultation Now"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "How I Can Help",
+    "subtitle": "I'm here to help you every step of your health journey"
+  },
+  "programs": {
+    "badge": "Nutrition Programs"
+  },
+  "footer": {
+    "tagline": "Your trusted nutrition specialist",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved"
+  }
+}
