@@ -1624,7 +1624,7 @@ footer {
 .credential-name {
   font-family: var(--font-body);
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
   color: var(--color-text);
   margin-bottom: 4px;
   line-height: 1.2;
