@@ -38,7 +38,7 @@ export default async function ContactPage({
           </h1>
           <p className="contact-subtitle">
             {locale === 'ar'
-              ? 'احجز استشارتك الأولى أو اسأل أي سؤال - نحن هنا لخدمتك'
+              ? ' إحنا هنا عشان نساعدك تبدأ رحلتك الصحية احجز استشارتك أو اسأل عن أي حاجة فريقنا جاهز يرد عليك'
               : 'Book your first consultation or ask any question - we\'re here to serve you'}
           </p>
         </div>
@@ -114,7 +114,7 @@ export default async function ContactPage({
         <div className="container booking-container">
           <div className="booking-content">
             <h2 className="booking-title">
-              {locale === 'ar' ? 'احجز استشارتك' : 'Book Your Consultation'}
+              {locale === 'ar' ? 'احجز استشارتك بسهولة' : 'Book Your Consultation'}
             </h2>
             <p className="booking-subtitle">
               {locale === 'ar'
