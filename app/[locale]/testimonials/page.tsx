@@ -35,7 +35,7 @@ export default async function TestimonialsPage({
           <p className="testimonials-subtitle">{t('testimonials.page.subtitle')}</p>
           <div className="testimonials-count">
             <span className="count-number">{reviews.length}</span>
-            <span className="count-label">{locale === 'ar' ? ' رأيي' : ' Reviews'}</span>
+            <span className="count-label">{locale === 'ar' ? ' تجربة' : ' Reviews'}</span>
           </div>
         </div>
       </section>
@@ -61,8 +61,8 @@ export default async function TestimonialsPage({
       <section className="cta">
         <div className="container cta-container">
           <h2 className="cta-title">{t('cta.title')}</h2>
-          <p className="cta-text">{t('cta.text')}</p>
-          <a href={`/${locale}/#book`} className="btn-primary cta-button">{t('cta.button')}</a>
+          <p className="cta-text">{t('cta.subtitle')}</p>
+          <a href={`/${locale}/#book`} className="btn-primary cta-button">{t('cta.button_text')}</a>
         </div>
       </section>
 

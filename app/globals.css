@@ -546,8 +546,8 @@ h6 {
   }
 
   .reviews-slider .review-slide {
-    width: 240px;
-    height: 340px;
+    width: 260px;
+    height: 480px;
   }
 
   .testimonials-slider .testimonial-card {
@@ -705,7 +705,7 @@ h6 {
 
 .stats-tagline {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 400;
   color: white;
   margin-bottom: 32px;
 }
@@ -2412,8 +2412,8 @@ footer {
 }
 
 .reviews-slider .review-slide {
-  width: 280px;
-  height: 400px;
+  width: 320px;
+  height: 580px;
   background: var(--color-white);
   border-radius: var(--radius-md);
   overflow: hidden;

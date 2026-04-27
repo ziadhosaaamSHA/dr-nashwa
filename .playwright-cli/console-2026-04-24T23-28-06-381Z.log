@@ -3064,3 +3064,1301 @@ TypeError: Cannot convert undefined or null to object
 [177896208ms] [LOG] [Fast Refresh] done in 280ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
 [177898807ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
 [177898809ms] [LOG] [Fast Refresh] done in 103ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178280246ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178280287ms] [ERROR] ./app/globals.css:712:1
+Parsing CSS source code failed
+  710 |   margin-bottom: 32px;
+  711 |   font
+> 712 | }
+      | ^
+  713 |
+  714 | .stats-social {
+  715 |   display: flex;
+
+Unexpected end of input
+
+Generated code of PostCSS transform of file content of app/globals.css:
+./app/globals.css:712:1
+  710 |   margin-bottom: 32px;
+  711 |   font
+> 712 | }
+      | ^
+  713 |
+  714 | .stats-social {
+  715 |   display: flex;
+
+Import traces:
+  #1 [Client Component Browser]:
+    ./app/globals.css [Client Component Browser]
+    ./app/[locale]/layout.tsx [Server Component]
+
+  #2 [Client Component Browser]:
+    ./app/globals.css [Client Component Browser]
+    ./app/[locale]/programs/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178281292ms] [ERROR] ./app/globals.css:712:1
+Parsing CSS source code failed
+  710 |   margin-bottom: 32px;
+  711 |   font-
+> 712 | }
+      | ^
+  713 |
+  714 | .stats-social {
+  715 |   display: flex;
+
+Unexpected end of input
+
+Generated code of PostCSS transform of file content of app/globals.css:
+./app/globals.css:712:1
+  710 |   margin-bottom: 32px;
+  711 |   font-
+> 712 | }
+      | ^
+  713 |
+  714 | .stats-social {
+  715 |   display: flex;
+
+Import traces:
+  #1 [Client Component Browser]:
+    ./app/globals.css [Client Component Browser]
+    ./app/[locale]/layout.tsx [Server Component]
+
+  #2 [Client Component Browser]:
+    ./app/globals.css [Client Component Browser]
+    ./app/[locale]/programs/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178281327ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178283567ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178283607ms] [LOG] [Fast Refresh] done in 42ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178294728ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178294778ms] [LOG] [Fast Refresh] done in 27ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178421878ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178421930ms] [LOG] [Fast Refresh] done in 101ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178423784ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178423840ms] [LOG] [Fast Refresh] done in 12ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178425476ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178425540ms] [LOG] [Fast Refresh] done in 8ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178481665ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178481666ms] [LOG] [Fast Refresh] done in 103ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178482728ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178483015ms] [LOG] [Fast Refresh] done in 389ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178523400ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178523435ms] [LOG] [Fast Refresh] done in 27ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178525635ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178525678ms] [LOG] [Fast Refresh] done in 8ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178529598ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178529690ms] [LOG] [Fast Refresh] done in 11ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178548696ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178548796ms] [LOG] [Fast Refresh] done in 12ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178551165ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178551250ms] [LOG] [Fast Refresh] done in 20ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178604078ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178604255ms] [ERROR] ./messages/ar.json:94:31
+Unable to make a module from invalid JSON
+  92 |     "viewAll": "عرض جميع الآراء",
+  93 |     "page": {
+> 94 |       "title": "آراء     "title": "آراء عملائنا",
+     |                           ^
+  95 | ",
+  96 |       "subtitle": "لمحة عن تجارب من اختاروا د. نشوى"
+  97 |     }
+
+expected `,` or `}` at line 94 column 31 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178605061ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178605223ms] [ERROR] ./messages/ar.json:94:31
+Unable to make a module from invalid JSON
+  92 |     "viewAll": "عرض جميع الآراء",
+  93 |     "page": {
+> 94 |       "title": "آراء     "title": "آراء عملائنا",
+     |                           ^
+  95 | ",
+  96 |       "subtitle": "لمحة عن تجارب من اختاروا د. نشوى"
+  97 |     }
+
+expected `,` or `}` at line 94 column 31 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178605331ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178605598ms] [LOG] [Fast Refresh] done in 365ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178605955ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178606189ms] [LOG] [Fast Refresh] done in 336ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178607359ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178607399ms] [LOG] [Fast Refresh] done in 141ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178609378ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178609546ms] [LOG] [Fast Refresh] done in 267ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178609773ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178609824ms] [LOG] [Fast Refresh] done in 154ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178611925ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178611957ms] [LOG] [Fast Refresh] done in 133ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178613102ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178613141ms] [LOG] [Fast Refresh] done in 139ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178615895ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178615950ms] [LOG] [Fast Refresh] done in 157ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178616333ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178616341ms] [LOG] [Fast Refresh] done in 109ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178618702ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178618708ms] [LOG] [Fast Refresh] done in 107ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178619130ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178619141ms] [LOG] [Fast Refresh] done in 112ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178619315ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178619323ms] [LOG] [Fast Refresh] done in 111ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178619597ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178619885ms] [LOG] [Fast Refresh] done in 389ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178620056ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178620067ms] [LOG] [Fast Refresh] done in 112ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178622088ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178622128ms] [LOG] [Fast Refresh] done in 141ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178622662ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178622693ms] [LOG] [Fast Refresh] done in 130ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178623285ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178623311ms] [LOG] [Fast Refresh] done in 127ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178640550ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178640673ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178640931ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178640941ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178640989ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178641070ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178641144ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178641164ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178641196ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178641222ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178641285ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar:0
+[178641456ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_cjs_react-dom_development_07i0ttg.js:25055
+[178641539ms] Error: ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0
+
+
+    at <unknown> (Error: ./messages/ar.json:96:1)
+    at Object.getCompilationErrors (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:719:42)
+    at DevServer.findPageComponents (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:689:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/base-server.js:1745:26)
+[178641621ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178641647ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641772ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641784ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641784ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641784ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641784ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641784ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178641871ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178641993ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178641997ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[178642008ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": "ل
+> 96 |     }
+     | ^
+  97 |   },
+  98 |   "cta": {
+  99 |     "title": "مستعد تبدأ؟",
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178642503ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178643100ms] [LOG] [Fast Refresh] done in 695ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178644045ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178644564ms] [LOG] [Fast Refresh] done in 619ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178645485ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178645488ms] [LOG] [Fast Refresh] done in 7ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178647043ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178647044ms] [LOG] [Fast Refresh] done in 3ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178647376ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178647559ms] [LOG] [Fast Refresh] done in 286ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178649195ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178649196ms] [LOG] [Fast Refresh] done in 102ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178649998ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178650279ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178651042ms] [ERROR] Can't perform a React state update on a component that hasn't mounted yet. This indicates that you have a side-effect in your render function that asynchronously tries to update the component. Move this work to useEffect instead. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178651542ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": " أشخاص بدأوا رحلتهم مع د. نشوى
+> 96 | "
+     | ^
+  97 |     }
+  98 |   },
+  99 |   "cta": {
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178651665ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178652914ms] [ERROR] ./messages/ar.json:96:1
+Unable to make a module from invalid JSON
+  94 |       "title": "آراء عملائنا",
+  95 |       "subtitle": " أشخاص بدأوا رحلتهم مع د. نشوى
+> 96 | "
+     | ^
+  97 |     }
+  98 |   },
+  99 |   "cta": {
+
+control character (\u0000-\u001F) found while parsing a string at line 96 column 0 @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178653294ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178659037ms] [LOG] [Fast Refresh] done in 5717ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178659145ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178662146ms] [LOG] [Fast Refresh] done in 3108ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178663915ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178664388ms] [LOG] [Fast Refresh] done in 577ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178664693ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178664724ms] [LOG] [Fast Refresh] done in 133ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178666687ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178666768ms] [LOG] [Fast Refresh] done in 180ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178667185ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178667426ms] [LOG] [Fast Refresh] done in 341ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178668455ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178668483ms] [LOG] [Fast Refresh] done in 130ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178668599ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178668654ms] [LOG] [Fast Refresh] done in 156ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178668799ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178668905ms] [LOG] [Fast Refresh] done in 206ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178669440ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178669818ms] [LOG] [Fast Refresh] done in 479ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178670012ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178670260ms] [LOG] [Fast Refresh] done in 348ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178670384ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178670402ms] [LOG] [Fast Refresh] done in 120ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178670897ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178670903ms] [LOG] [Fast Refresh] done in 106ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178671105ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178671170ms] [LOG] [Fast Refresh] done in 165ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178671788ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178672038ms] [LOG] [Fast Refresh] done in 351ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178672255ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178672645ms] [LOG] [Fast Refresh] done in 491ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178674023ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178674096ms] [LOG] [Fast Refresh] done in 174ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178675010ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178675181ms] [LOG] [Fast Refresh] done in 270ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178675369ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178676420ms] [LOG] [Fast Refresh] done in 1151ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178680053ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178680367ms] [LOG] [Fast Refresh] done in 415ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178681413ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178681893ms] [LOG] [Fast Refresh] done in 582ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178686967ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178686994ms] [LOG] [Fast Refresh] done in 128ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178689540ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178689583ms] [LOG] [Fast Refresh] done in 143ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178691292ms] [ERROR] Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691293ms] [ERROR] Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691293ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691294ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691298ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691298ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691299ms] [ERROR] Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691299ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: network error @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691300ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691300ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691304ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691304ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691305ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691305ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691316ms] [ERROR] Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691319ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691320ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691320ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691320ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691322ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691322ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691323ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691324ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691332ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691333ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691333ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691333ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691333ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691334ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691334ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691334ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178691339ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/ar?_rsc=j81uh:0
+[178691339ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/ar. Falling back to browser navigation. TypeError: Failed to fetch
+    at createFetch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:8084:21)
+    at fetchServerResponse (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:7928:27)
+    at fetchMissingDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9341:75)
+    at spawnDynamicRequests (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:9149:35)
+    at navigateToKnownRoute (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10033:54)
+    at refreshDynamicData (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10653:49)
+    at hmrRefreshReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:10802:51)
+    at clientReducer (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11398:65)
+    at Object.action (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11631:55)
+    at runAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11536:38)
+    at dispatchAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11599:9)
+    at Object.dispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11629:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:963:29
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:5469:31)
+    at nextDispatch (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:962:13)
+    at dispatchAppRouterAction (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:922:5)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11800:61
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11799:40)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13967:64
+    at startTransition (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13966:44)
+    at WebSocket.handleMessage (http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13335:52) @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178699764ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178699830ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178703270ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178785608ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178785873ms] [ERROR] ./app/[locale]/page.tsx:78:65
+Expression expected
+  76 | ...e="stats-section">
+  77 | ..."container">
+> 78 | ..."stats-tagline">{t('stats.description')}<</p>
+     |                                             ^
+  79 | ...e="stats-social">
+  80 | ...tps://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-soc...
+  81 | ...h="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178785873ms] [ERROR] ./app/[locale]/page.tsx:78:66
+Unterminated regexp literal
+  76 | ..."stats-section">
+  77 | ...ontainer">
+> 78 | ...tats-tagline">{t('stats.description')}<</p>
+     |                                            ^^^
+  79 | ..."stats-social">
+  80 | ...s://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-socia...
+  81 | ..."28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786211ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178786212ms] [ERROR] ./app/[locale]/page.tsx:78:65
+Expression expected
+  76 | ...e="stats-section">
+  77 | ..."container">
+> 78 | ..."stats-tagline">{t('stats.description')}<</p>
+     |                                             ^
+  79 | ...e="stats-social">
+  80 | ...tps://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-soc...
+  81 | ...h="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786212ms] [ERROR] ./app/[locale]/page.tsx:78:66
+Unterminated regexp literal
+  76 | ..."stats-section">
+  77 | ...ontainer">
+> 78 | ...tats-tagline">{t('stats.description')}<</p>
+     |                                            ^^^
+  79 | ..."stats-social">
+  80 | ...s://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-socia...
+  81 | ..."28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786313ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178786696ms] [ERROR] ./app/[locale]/page.tsx:78:65
+Expression expected
+  76 | ...e="stats-section">
+  77 | ..."container">
+> 78 | ..."stats-tagline">{t('stats.description')}<</p>
+     |                                             ^
+  79 | ...e="stats-social">
+  80 | ...tps://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-soc...
+  81 | ...h="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786697ms] [ERROR] ./app/[locale]/page.tsx:78:66
+Unterminated regexp literal
+  76 | ..."stats-section">
+  77 | ...ontainer">
+> 78 | ...tats-tagline">{t('stats.description')}<</p>
+     |                                            ^^^
+  79 | ..."stats-social">
+  80 | ...s://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-socia...
+  81 | ..."28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786709ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178786796ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178786832ms] [ERROR] ./app/[locale]/page.tsx:78:65
+Expression expected
+  76 | ...e="stats-section">
+  77 | ..."container">
+> 78 | ..."stats-tagline">{t('stats.description')}<</p>
+     |                                             ^
+  79 | ...e="stats-social">
+  80 | ...tps://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-soc...
+  81 | ...h="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786832ms] [ERROR] ./app/[locale]/page.tsx:78:66
+Unterminated regexp literal
+  76 | ..."stats-section">
+  77 | ...ontainer">
+> 78 | ...tats-tagline">{t('stats.description')}<</p>
+     |                                            ^^^
+  79 | ..."stats-social">
+  80 | ...s://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-socia...
+  81 | ..."28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786855ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178786974ms] [ERROR] ./app/[locale]/page.tsx:78:65
+Expression expected
+  76 | ...e="stats-section">
+  77 | ..."container">
+> 78 | ..."stats-tagline">{t('stats.description')}<</p>
+     |                                             ^
+  79 | ...e="stats-social">
+  80 | ...tps://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-soc...
+  81 | ...h="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178786974ms] [ERROR] ./app/[locale]/page.tsx:78:66
+Unterminated regexp literal
+  76 | ..."stats-section">
+  77 | ...ontainer">
+> 78 | ...tats-tagline">{t('stats.description')}<</p>
+     |                                            ^^^
+  79 | ..."stats-social">
+  80 | ...s://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-socia...
+  81 | ..."28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178787076ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178787518ms] [ERROR] ./app/[locale]/page.tsx:78:65
+Expression expected
+  76 | ...e="stats-section">
+  77 | ..."container">
+> 78 | ..."stats-tagline">{t('stats.description')}<</p>
+     |                                             ^
+  79 | ...e="stats-social">
+  80 | ...tps://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-soc...
+  81 | ...h="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178787519ms] [ERROR] ./app/[locale]/page.tsx:78:66
+Unterminated regexp literal
+  76 | ..."stats-section">
+  77 | ...ontainer">
+> 78 | ...tats-tagline">{t('stats.description')}<</p>
+     |                                            ^^^
+  79 | ..."stats-social">
+  80 | ...s://instagram.com" target="_blank" rel="noopener noreferrer" className="stats-socia...
+  81 | ..."28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178787976ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178787976ms] [LOG] [Fast Refresh] done in 3ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178788406ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178788604ms] [LOG] [Fast Refresh] done in 299ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178789987ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178790035ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178793742ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178816846ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178816908ms] [LOG] [Fast Refresh] done in 17ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178818397ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178818443ms] [ERROR] ./app/[locale]/page.tsx:78:41
+Expected '</', got 'if'
+  76 |       <section className="stats-section">
+  77 |         <div className="container">
+> 78 |           <p className="stats-tagline">{if}</p>
+     |                                         ^^
+  79 |           <div className="stats-social">
+  80 |             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" ...
+  81 |               <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><pat...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178818539ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178818542ms] [ERROR] ./app/[locale]/page.tsx:78:41
+Expected '</', got 'if'
+  76 |       <section className="stats-section">
+  77 |         <div className="container">
+> 78 |           <p className="stats-tagline">{if}</p>
+     |                                         ^^
+  79 |           <div className="stats-social">
+  80 |             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" ...
+  81 |               <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><pat...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178818562ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178818654ms] [ERROR] ./app/[locale]/page.tsx:78:41
+Expected '</', got 'if'
+  76 |       <section className="stats-section">
+  77 |         <div className="container">
+> 78 |           <p className="stats-tagline">{if}</p>
+     |                                         ^^
+  79 |           <div className="stats-social">
+  80 |             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" ...
+  81 |               <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><pat...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178818736ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar:0
+[178818803ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_cjs_react-dom_development_07i0ttg.js:25055
+[178818858ms] Error: ./app/[locale]/page.tsx:78:41
+Expected '</', got 'if'
+  76 |       <section className="stats-section">
+  77 |         <div className="container">
+> 78 |           <p className="stats-tagline">{if}</p>
+     |                                         ^^
+  79 |           <div className="stats-social">
+  80 |             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" ...
+  81 |               <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><pat...
+
+Parsing ecmascript source code failed
+
+
+    at <unknown> (Error: ./app/[locale]/page.tsx:78:41)
+    at Object.getCompilationErrors (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:719:42)
+    at DevServer.findPageComponents (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:689:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/base-server.js:1745:26)
+[178818859ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178818861ms] [ERROR] ./app/[locale]/page.tsx:78:41
+Expected '</', got 'if'
+  76 |       <section className="stats-section">
+  77 |         <div className="container">
+> 78 |           <p className="stats-tagline">{if}</p>
+     |                                         ^^
+  79 |           <div className="stats-social">
+  80 |             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" ...
+  81 |               <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><pat...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178818875ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[178818909ms] [ERROR] ./app/[locale]/page.tsx:78:41
+Expected '</', got 'if'
+  76 |       <section className="stats-section">
+  77 |         <div className="container">
+> 78 |           <p className="stats-tagline">{if}</p>
+     |                                         ^^
+  79 |           <div className="stats-social">
+  80 |             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" ...
+  81 |               <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><pat...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178818963ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178820419ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178820452ms] [LOG] [Fast Refresh] done in 21ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178821335ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178821385ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178825197ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178828790ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178828830ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178828847ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178828897ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178828984ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178829046ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178829054ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar:0
+[178829096ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_cjs_react-dom_development_07i0ttg.js:25055
+[178829104ms] Error: ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed
+
+
+    at <unknown> (Error: ./app/[locale]/page.tsx:78:48)
+    at Object.getCompilationErrors (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:719:42)
+    at DevServer.findPageComponents (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:689:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/base-server.js:1745:26)
+[178829105ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178829105ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178829112ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[178829144ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178829208ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178831405ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : "" : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178831468ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178833959ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : "ksjdafhkjsa" : ""}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178834018ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178836450ms] [ERROR] ./app/[locale]/page.tsx:78:48
+Expected '</', got ':'
+  76 | ...<section className="stats-section">
+  77 | ...  <div className="container">
+> 78 | ...    <p className="stats-tagline">{isRTL? : "ksjdafhkjsa" : "ksjadfjksa"}</p>
+     |                                             ^
+  79 | ...    <div className="stats-social">
+  80 | ...      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" cla...
+  81 | ...        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178836527ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178842840ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178842872ms] [LOG] [Fast Refresh] done in 23ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178844046ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178844556ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178848278ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178850278ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178850324ms] [LOG] [Fast Refresh] done in 14ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178853398ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178853601ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178853653ms] [LOG] [Fast Refresh] done in 22ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178856702ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178860835ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178860889ms] [LOG] [Fast Refresh] done in 10ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178864007ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178865577ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178865628ms] [LOG] [Fast Refresh] done in 14ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178868674ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178871151ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178871198ms] [LOG] [Fast Refresh] done in 18ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178874248ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178925930ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178925972ms] [ERROR] ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178926100ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178926152ms] [ERROR] ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178926175ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar?_rsc=j81uh:0
+[178926264ms] [ERROR] ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178926325ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178926408ms] [ERROR] ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3277
+[178926411ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/ar:0
+[178926502ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_cjs_react-dom_development_07i0ttg.js:25055
+[178926515ms] Error: ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed
+
+
+    at <unknown> (Error: ./app/[locale]/page.tsx:78:51)
+    at Object.getCompilationErrors (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:719:42)
+    at DevServer.findPageComponents (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/dev/next-dev-server.js:689:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/ziadhosaaam/Documents/nashwa-clinic/node_modules/next/dist/server/base-server.js:1745:26)
+[178926514ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178926515ms] [ERROR] ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178926539ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[178926562ms] [ERROR] ./app/[locale]/page.tsx:78:51
+Expected '</', got 'ident'
+  76 | ...lassName="stats-section">
+  77 | ...ssName="container">
+> 78 | ...ssName="stats-tagline">{isRTL ? ""أخصائية تغذية علاجية ومدربة صحة معتمدة، بخبرة في ...
+     |                                      ^^^^^^^
+  79 | ...lassName="stats-social">
+  80 | ...ref="https://instagram.com" target="_blank" rel="noopener noreferrer" className="st...
+  81 | ...vg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16...
+
+Parsing ecmascript source code failed @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1950
+[178926620ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178928831ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178928863ms] [LOG] [Fast Refresh] done in 49ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178928996ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178929012ms] [LOG] [Fast Refresh] done in 118ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1231
+[178929505ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178929535ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178933011ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178937574ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178937631ms] [LOG] [Fast Refresh] done in 14ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178938880ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178938938ms] [LOG] [Fast Refresh] done in 16ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178941861ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178941904ms] [LOG] [Fast Refresh] done in 16ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178944962ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178950205ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178950283ms] [LOG] [Fast Refresh] done in 17ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178953307ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178960501ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178960579ms] [LOG] [Fast Refresh] done in 14ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178963610ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178968823ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178968875ms] [LOG] [Fast Refresh] done in 17ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178970175ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178970219ms] [LOG] [Fast Refresh] done in 9ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178972265ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178972313ms] [LOG] [Fast Refresh] done in 13ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178975257ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178975301ms] [LOG] [Fast Refresh] done in 18ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178976470ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178976521ms] [LOG] [Fast Refresh] done in 12ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178979575ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178980520ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178980570ms] [LOG] [Fast Refresh] done in 16ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178983622ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178990460ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178990512ms] [LOG] [Fast Refresh] done in 15ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178993090ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178993133ms] [LOG] [Fast Refresh] done in 22ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178996192ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178996236ms] [LOG] [Fast Refresh] done in 16ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[178996257ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[178999288ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[179023470ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179023605ms] [LOG] [Fast Refresh] done in 160ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179027066ms] [WARNING] The resource http://localhost:3000/_next/static/chunks/app_globals_0jn8.0u.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/ar:0
+[179049080ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179049125ms] [LOG] [Fast Refresh] done in 79ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179061704ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179061738ms] [LOG] [Fast Refresh] done in 19ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179064330ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179064377ms] [LOG] [Fast Refresh] done in 16ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179066736ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179066778ms] [LOG] [Fast Refresh] done in 20ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179171796ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179171852ms] [LOG] [Fast Refresh] done in 64ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179178782ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436
+[179178825ms] [LOG] [Fast Refresh] done in 28ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2436

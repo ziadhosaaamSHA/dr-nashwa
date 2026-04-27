@@ -153,8 +153,8 @@ export default async function ProgramsPage({
           </h2>
           <p className="cta-text">
             {locale === 'ar'
-              ? 'تواصل معنا اليوم واحجز استشارتك الأولى مجاناً'
-              : 'Contact us today and book your first consultation for free'}
+              ? 'تواصل معنا اليوم واحجز استشارتك الأولى'
+              : 'Contact us today and book your first consultation'}
           </p>
           <a href={`/${locale}/contact#book`} className="btn-primary cta-button">
             {t('nav.book')}
