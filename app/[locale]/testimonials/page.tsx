@@ -34,7 +34,7 @@ export default async function TestimonialsPage({
           <h1 className="testimonials-title">{t('testimonials.page.title')}</h1>
           <p className="testimonials-subtitle">{t('testimonials.page.subtitle')}</p>
           <div className="testimonials-count">
-            <span className="count-number">{reviews.length}</span>
+            <span className="count-number">+{reviews.length}</span>
             <span className="count-label">{locale === 'ar' ? ' تجربة' : ' Reviews'}</span>
           </div>
         </div>
