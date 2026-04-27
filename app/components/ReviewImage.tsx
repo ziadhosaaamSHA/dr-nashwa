@@ -3,6 +3,8 @@
 import React, { useState, useEffect } from 'react'
 import { createPortal } from 'react-dom'
 
+import Image from 'next/image'
+
 interface ReviewImageProps {
   src: string
   alt: string
@@ -40,7 +42,15 @@ export default function ReviewImage({ src, alt, className = '', isSlider = false
         <button className="close-preview" onClick={() => setIsOpen(false)} aria-label="Close preview">
           &times;
         </button>
-        <img src={src} alt={alt} className="full-preview-image" />
+        <div className="full-preview-image-wrapper">
+          <Image 
+            src={src} 
+            alt={alt} 
+            fill
+            className="full-preview-image" 
+            style={{ objectFit: 'contain' }}
+          />
+        </div>
       </div>
     </div>
   )
@@ -49,19 +59,19 @@ export default function ReviewImage({ src, alt, className = '', isSlider = false
     <>
       <div 
         className={`review-image-clickable ${className}`} 
-        onClick={() => {
-          console.log('Opening preview for', src);
-          setIsOpen(true);
-        }}
+        onClick={() => setIsOpen(true)}
+        style={{ position: 'relative' }}
       >
-        <img
+        <Image
           src={src}
           alt={alt}
-          loading="lazy"
+          fill={isSlider}
+          width={isSlider ? undefined : 800}
+          height={isSlider ? undefined : 1200}
           style={{ 
-            width: '100%', 
+            width: isSlider ? '100%' : '100%', 
             height: isSlider ? '100%' : 'auto', 
-            objectFit: isSlider ? 'contain' : 'initial',
+            objectFit: isSlider ? 'contain' : 'cover',
             display: 'block' 
           }}
         />
