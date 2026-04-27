@@ -9,14 +9,13 @@
   },
   "hero": {
     "badge": "Clinical Nutrition Specialist",
-    "title1": "Your Journey to a",
-    "title2": "Healthier Life",
-    "title3": "Starts Here",
-    "description": "Personalized nutrition plans backed by science. Transform your health with expert guidance tailored to your lifestyle, cultural preferences, and health goals.",
+    "header": "Start your journey to a healthier life… from here",
+    "subheader": "A personalized nutrition plan built on scientific foundations, with expert guidance to help you reach your goals with confidence",
     "cta": "Book Your Consultation",
     "explore": "Explore Services"
   },
   "stats": {
+    "description": "A certified clinical nutritionist and health coach with experience helping over 896 women achieve their health goals",
     "clients": "Happy Clients",
     "experience": "Years Experience",
     "programs": "Specialized Programs",
@@ -54,13 +53,38 @@
   },
   "about": {
     "badge": "About Dr. Nashwa",
-    "title1": "Dedicated to Your",
-    "title2": "Health & Wellbeing",
-    "text1": "With over 8 years of experience in clinical nutrition, I specialize in creating personalized nutrition plans that work with your lifestyle, not against it. My approach combines evidence-based nutrition science with a deep understanding of Egyptian and Middle Eastern dietary traditions.",
-    "text2": "I believe that healthy eating shouldn't mean giving up the foods you love. Instead, it's about finding the right balance and making informed choices that support your health goals while honoring your cultural heritage.",
+    "title": "A passion for creating real change in your nutritional lifestyle",
+    "description": "Dr. Nashwa is a certified clinical nutritionist with over 8 years of experience in delivering personalized nutrition programs that help you achieve your health goals sustainably",
     "credential1": "Licensed Clinical Nutritionist",
     "credential2": "MSc in Clinical Nutrition",
-    "credential3": "Member of Egyptian Nutrition Society"
+    "credential3": "Member of Egyptian Nutrition Society",
+    "credential4": "Diabetes Nutrition Certificate (ADA)"
+  },
+  "journey": {
+    "title": "My Professional Journey",
+    "subtitle": "From academic study to real-world application",
+    "timeline": [
+      {
+        "year": "2016",
+        "title": "Bachelor's Degree",
+        "description": "Graduated from Cairo University Faculty of Medicine with honors, specializing in clinical nutrition"
+      },
+      {
+        "year": "2018",
+        "title": "Master's Degree",
+        "description": "Earned MSc in Clinical Nutrition with focused research on metabolic health and diabetes management"
+      },
+      {
+        "year": "2020",
+        "title": "The Beginning",
+        "description": "I opened my private clinic and started helping clients directly in Cairo and Mansoura"
+      },
+      {
+        "year": "2026",
+        "title": "Ongoing Results",
+        "description": "I help hundreds of women achieve their health goals through personalized plans and sustainable results"
+      }
+    ]
   },
   "testimonials": {
     "title": "What Clients Say",
@@ -72,9 +96,9 @@
     }
   },
   "cta": {
-    "title": "Ready to Transform Your Health?",
-    "text": "Book your consultation today and take the first step towards a healthier, happier you. Limited slots available each week.",
-    "button": "Book Your Consultation Now"
+    "title": "Ready to start?",
+    "subtitle": "Book your first consultation now and begin your journey toward a healthier life",
+    "button_text": "Book Now"
   },
   "contact": {
     "badge": "Contact Us",

@@ -3,6 +3,7 @@ import Image from 'next/image'
 import '@/app/globals.css'
 import Nav from '@/app/components/Nav'
 import { getReviewImages } from '@/app/lib/reviews'
+import ReviewImage from '@/app/components/ReviewImage'
 
 export default async function TestimonialsPage({
   params,
@@ -45,14 +46,11 @@ export default async function TestimonialsPage({
           <div className="reviews-grid">
             {reviews.map((review, index) => (
               <div key={index} className="review-card">
-                <div className="review-image-wrapper">
-                  <Image
-                    src={`/reviews/${review}`}
-                    alt={`Review ${index + 1}`}
-                    fill
-                    style={{ objectFit: 'contain' }}
-                  />
-                </div>
+                <ReviewImage
+                  src={`/reviews/${review}`}
+                  alt={`Review ${index + 1}`}
+                  className="review-image-wrapper"
+                />
               </div>
             ))}
           </div>

@@ -21,19 +21,56 @@ export default function SliderAndMenu() {
       const nextBtn = document.querySelector(btnNext) as HTMLButtonElement
 
       if (slider && prevBtn && nextBtn) {
+        const isRTL = getComputedStyle(slider).direction === 'rtl'
+
         const onPrevClick = () => {
-          slider.scrollBy({ left: -340, behavior: 'smooth' })
+          const scrollAmount = isRTL ? 340 : -340
+          slider.scrollBy({ left: scrollAmount, behavior: 'smooth' })
         }
         const onNextClick = () => {
-          slider.scrollBy({ left: 340, behavior: 'smooth' })
+          const scrollAmount = isRTL ? -340 : 340
+          
+          let isAtEnd = false
+          if (isRTL) {
+            // In RTL, scrollLeft is typically 0 at the right (start) 
+            // and becomes negative as you scroll left (end)
+            isAtEnd = Math.abs(slider.scrollLeft) + slider.offsetWidth >= slider.scrollWidth - 10
+          } else {
+            isAtEnd = slider.scrollLeft + slider.offsetWidth >= slider.scrollWidth - 10
+          }
+
+          if (isAtEnd) {
+            slider.scrollTo({ left: 0, behavior: 'smooth' })
+          } else {
+            slider.scrollBy({ left: scrollAmount, behavior: 'smooth' })
+          }
         }
 
         prevBtn.addEventListener('click', onPrevClick)
         nextBtn.addEventListener('click', onNextClick)
 
+        // Auto-scroll logic
+        let intervalId: NodeJS.Timeout | null = setInterval(onNextClick, 2000)
+
+        const startAutoScroll = () => {
+          if (!intervalId) intervalId = setInterval(onNextClick, 2000)
+        }
+        const stopAutoScroll = () => {
+          if (intervalId) {
+            clearInterval(intervalId)
+            intervalId = null
+          }
+        }
+
+        slider.addEventListener('mouseenter', stopAutoScroll)
+        slider.addEventListener('mouseleave', startAutoScroll)
+
         cleanups.push(() => {
           prevBtn.removeEventListener('click', onPrevClick)
           nextBtn.removeEventListener('click', onNextClick)
+          stopAutoScroll()
+          slider.removeEventListener('mouseenter', stopAutoScroll)
+          slider.removeEventListener('mouseleave', startAutoScroll)
         })
       }
     })

@@ -1,5 +1,6 @@
 import { getTranslations } from 'next-intl/server'
 import '@/app/globals.css'
+import Image from 'next/image'
 import Nav from '@/app/components/Nav'
 
 export default async function ContactPage({
@@ -190,11 +191,6 @@ export default async function ContactPage({
                 {locale === 'ar' ? 'إرسال طلب الحجز' : 'Submit Booking Request'}
               </button>
             </form>
-          </div>
-          <div className="booking-image">
-            <div className="booking-image-placeholder">
-              <span>د. نشوى</span>
-            </div>
           </div>
         </div>
       </section>

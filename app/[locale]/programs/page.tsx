@@ -80,17 +80,6 @@ export default async function ProgramsPage({
         </div>
       </section>
 
-      {/* Programs Grid */}
-      <section className="programs-grid-section">
-        <div className="container">
-          <div className="programs-grid">
-            {programs.map((program, index) => (
-              <ProgramCard key={program.id} locale={locale} order={index + 1} program={program} />
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Process Section */}
       <section className="process-section">
         <div className="container">
